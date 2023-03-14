@@ -1,0 +1,13 @@
+C:\Contact\Contact\bin\Debug\Contact.exe.config
+C:\Contact\Contact\bin\Debug\Contact.exe
+C:\Contact\Contact\bin\Debug\Contact.pdb
+C:\Contact\Contact\obj\Debug\Contact.csproj.AssemblyReference.cache
+C:\Contact\Contact\obj\Debug\Contact.csproj.SuggestedBindingRedirects.cache
+C:\Contact\Contact\obj\Debug\Contact.Form1.resources
+C:\Contact\Contact\obj\Debug\Contact.Properties.Resources.resources
+C:\Contact\Contact\obj\Debug\Contact.csproj.GenerateResource.cache
+C:\Contact\Contact\obj\Debug\Contact.csproj.CoreCompileInputs.cache
+C:\Contact\Contact\obj\Debug\Contact.exe
+C:\Contact\Contact\obj\Debug\Contact.pdb
+C:\Contact\Contact\bin\Debug\ContactDB.mdf
+C:\Contact\Contact\bin\Debug\ContactDB_log.ldf
